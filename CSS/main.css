@@ -36,7 +36,7 @@
           align-items: center;
 }
 
-.left-pane .container header logo h1 {
+.left-pane .container header .logo h1 {
   font-family: 'Poppins', sans-serif;
   font-size: 1.5em;
   font-weight: 900;
