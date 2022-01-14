@@ -96,6 +96,12 @@
   line-height: 1.6rem;
 }
 
+.left-pane .container section .bottom-carousel_nav {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
 .right-pane {
   width: 55%;
   height: inherit;
