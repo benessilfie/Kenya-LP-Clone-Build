@@ -42,6 +42,11 @@
   font-weight: 900;
 }
 
+.left-pane .container header .nav-button {
+  font-size: 2em;
+  cursor: pointer;
+}
+
 .right-pane {
   width: 55%;
   height: inherit;
