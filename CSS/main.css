@@ -53,6 +53,7 @@
   width: 70%;
   display: block;
   margin: 0 auto;
+  font-family: 'Poppins', sans-serif;
 }
 
 .left-pane .container section .carousel-nav {
@@ -65,7 +66,6 @@
   -webkit-box-align: center;
       -ms-flex-align: center;
           align-items: center;
-  font-family: 'Poppins', sans-serif;
   font-weight: 700;
   font-size: .8em;
   margin-bottom: 30px;
