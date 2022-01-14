@@ -11,4 +11,34 @@
     width: 45%;
     height: inherit;
     overflow: hidden;
+    background-color: yellow;
+
+    .container {
+        display: block;
+        width: 90%;
+        margin: 0 auto;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.right-pane {
+    width: 55%;
+    height: inherit;
+    overflow: hidden;
+    background-color: rebeccapurple;
 }
