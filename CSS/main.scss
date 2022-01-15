@@ -124,7 +124,7 @@
         clear: both;
         
         .facts {
-            width: 45%;
+            width: 46%;
             height: 44.6vh;
             background-color: #000;
             position: absolute;
@@ -175,6 +175,39 @@
                     span {
                         margin-left: 10px;
                     }
+                }
+            }
+        }
+
+
+        .explore {
+            width: 54%;
+            height: inherit;
+            background-color: #ffe7b4;
+            float: right;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-family: 'Mada', sans-serif;
+
+            .explore-item h3 {
+                font-size: 1.3rem;
+                font-weight: 800;
+                margin-bottom: 15px;
+                font-family: 'Poppins', sans-serif;
+            }
+
+            .explore-item a {
+                text-decoration: none;
+                display: flex;
+                align-items: center;
+                font-size: 1.15em;
+                color: #000;
+                cursor: pointer;
+
+                span {
+                    margin-right: 6px;
+                    color: #000;
                 }
             }
         }

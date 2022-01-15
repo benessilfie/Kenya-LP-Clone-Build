@@ -147,7 +147,7 @@
 }
 
 .right-pane .content .facts {
-  width: 45%;
+  width: 46%;
   height: 44.6vh;
   background-color: #000;
   position: absolute;
@@ -205,5 +205,47 @@
 
 .right-pane .content .facts .features a span {
   margin-left: 10px;
+}
+
+.right-pane .content .explore {
+  width: 54%;
+  height: inherit;
+  background-color: #ffe7b4;
+  float: right;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  font-family: 'Mada', sans-serif;
+}
+
+.right-pane .content .explore .explore-item h3 {
+  font-size: 1.3rem;
+  font-weight: 800;
+  margin-bottom: 15px;
+  font-family: 'Poppins', sans-serif;
+}
+
+.right-pane .content .explore .explore-item a {
+  text-decoration: none;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  font-size: 1.15em;
+  color: #000;
+  cursor: pointer;
+}
+
+.right-pane .content .explore .explore-item a span {
+  margin-right: 6px;
+  color: #000;
 }
 /*# sourceMappingURL=main.css.map */
