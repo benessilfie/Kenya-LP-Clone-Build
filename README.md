@@ -5,7 +5,7 @@ This project is a clone build of Big Tank of Double South's Landing Page for Ken
 
 ## Art
 
-<img src="https://raw.githubusercontent.com/essilfiequansah/Week2assigment-ContactApp/master/screenshots/main.png" width="100%"  height="50%"/>
+<img src="https://github.com/essilfiequansah/Kenya-LP-Clone-Build/blob/master/screenshots/scr.png?raw=true" width="100%"  height="50%"/>
 
 
 ## Getting Started
