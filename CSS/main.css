@@ -148,12 +148,34 @@
 
 .right-pane .content .facts {
   width: 50%;
-  height: 44vh;
+  height: 44.6vh;
   background-color: #000;
   position: absolute;
   bottom: 0;
   z-index: 99;
   font-family: 'Mada', sans-serif;
   padding: 100px 0px 60px 0px;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+.right-pane .content .facts .features {
+  position: relative;
+  width: 250px;
+  color: #fff;
+  display: block;
+  margin: 0 auto;
+}
+
+.right-pane .content .facts .features ul li {
+  list-style: none;
+  margin-bottom: 45px;
+}
+
+.right-pane .content .facts .features ul li h3 {
+  font-size: 1.3em;
+  font-weight: 600;
+  margin-bottom: 6px;
+  font-family: 'Poppins', sans-serif;
 }
 /*# sourceMappingURL=main.css.map */
