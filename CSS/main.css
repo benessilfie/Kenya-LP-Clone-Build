@@ -147,7 +147,7 @@
 }
 
 .right-pane .content .facts {
-  width: 50%;
+  width: 45%;
   height: 44.6vh;
   background-color: #000;
   position: absolute;
@@ -170,18 +170,18 @@
 .right-pane .content .facts .features ul li {
   list-style: none;
   margin-bottom: 45px;
+  font-size: 1.1em;
 }
 
 .right-pane .content .facts .features ul li h3 {
-  font-size: 1.1em;
   font-weight: 600;
   margin-bottom: 7px;
   font-family: 'Poppins', sans-serif;
 }
 
 .right-pane .content .facts .features ul li p {
-  font-size: 1.1em;
   font-weight: 200;
   line-height: 1.4em;
+  margin-bottom: 45px;
 }
 /*# sourceMappingURL=main.css.map */
