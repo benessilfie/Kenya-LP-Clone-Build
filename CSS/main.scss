@@ -69,7 +69,7 @@
                     font-size: 10rem;
                     font-weight: 700;
                     text-transform: lowercase;
-                    margin-bottom: 20px;
+                    margin-bottom: 60px;
                 }
 
                 p {
@@ -81,6 +81,22 @@
 
             .bottom-carousel_nav {
                 display: flex;
+
+                div {
+                    width: 45px;
+                    height: 45px;
+                    font-size: 1.2em;
+                    border: 1px solid #000;
+                    border-radius: 50%;
+                    display: flex;
+                    justify-content: center;
+                    align-items: center;
+                    cursor: pointer;
+                }
+
+                .prev {
+                    margin-right: 15px;
+                }
             }
         }
     }

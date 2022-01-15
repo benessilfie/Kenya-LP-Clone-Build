@@ -87,7 +87,7 @@
   font-size: 10rem;
   font-weight: 700;
   text-transform: lowercase;
-  margin-bottom: 20px;
+  margin-bottom: 60px;
 }
 
 .left-pane .container section .content p {
@@ -100,6 +100,28 @@
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
+}
+
+.left-pane .container section .bottom-carousel_nav div {
+  width: 45px;
+  height: 45px;
+  font-size: 1.2em;
+  border: 1px solid #000;
+  border-radius: 50%;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  cursor: pointer;
+}
+
+.left-pane .container section .bottom-carousel_nav .prev {
+  margin-right: 15px;
 }
 
 .right-pane {
