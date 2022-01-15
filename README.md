@@ -1,4 +1,4 @@
-# DoubleSouth's Kenya Landing Page Clone Project
+# Landing Page Clone Project
 
 This project is a clone build of Big Tank of Double South's Landing Page for Kenya.
 
