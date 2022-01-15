@@ -1,6 +1,6 @@
 # DoubleSouth's Kenya Landing Page Clone Project
 
-A landing Page built with HTML & SCSS
+This project is a clone build of Big Tank of Double Souths's Landing Page for Kenya.
 
 
 ## Art
@@ -10,7 +10,7 @@ A landing Page built with HTML & SCSS
 
 ## Getting Started
 
-This project is a clone build of Big Tank of Double Souths's Landing Page for Kenya.
+A landing Page built with HTML & SCSS
 
 To clone this project,
 open your terminal or cmd
