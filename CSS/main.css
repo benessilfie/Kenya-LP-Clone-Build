@@ -173,9 +173,15 @@
 }
 
 .right-pane .content .facts .features ul li h3 {
-  font-size: 1.3em;
+  font-size: 1.1em;
   font-weight: 600;
-  margin-bottom: 6px;
+  margin-bottom: 7px;
   font-family: 'Poppins', sans-serif;
+}
+
+.right-pane .content .facts .features ul li p {
+  font-size: 1.1em;
+  font-weight: 200;
+  line-height: 1.4em;
 }
 /*# sourceMappingURL=main.css.map */
