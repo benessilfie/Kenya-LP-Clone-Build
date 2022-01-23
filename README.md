@@ -19,9 +19,7 @@ open your terminal or cmd
 cd folder/to/clone-into/
 ```
 
-```
-git clone https://github.com/essilquansah/Kenya-LP-Clone-Build.git
-```
+
 
 ## Author 😊
 
