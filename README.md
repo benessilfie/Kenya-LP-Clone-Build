@@ -8,10 +8,6 @@ This project is a clone I builtUpdate README.md of Big Tank of Double South's La
 <img src="https://github.com/essilfiequansah/Kenya-LP-Clone-Build/blob/master/screenshots/scr.png?raw=true" width="100%"  height="50%"/>
 
 
-## Getting Started
-
-A landing Page built with HTML & SCSS
-
 ## Author 😊
 
 **Benjamin Ofori-Quansah**
