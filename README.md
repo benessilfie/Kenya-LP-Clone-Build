@@ -22,6 +22,3 @@ open your terminal or cmd
 
 - [**Twitter**](https://twitter.com/essilfiequansah)
 - [**Linkedin**](https://www.linkedin.com/in/essilfiequansah/)
-
-
-## License
