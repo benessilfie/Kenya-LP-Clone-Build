@@ -16,7 +16,7 @@ To clone this project,
 open your terminal or cmd
 
 ```
-cd folder/to/clone-into/
+
 
 
 
