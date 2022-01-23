@@ -25,8 +25,3 @@ open your terminal or cmd
 
 
 ## License
-
-MIT License
-
-Copyright (c) 2021 Benjamin Ofori-Quansah
-
