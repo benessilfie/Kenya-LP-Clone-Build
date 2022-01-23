@@ -15,11 +15,6 @@ A landing Page built with HTML & SCSS
 To clone this project,
 open your terminal or cmd
 
-```
-
-
-
-
 
 ## Author 😊
 
