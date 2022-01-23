@@ -12,8 +12,6 @@ This project is a clone I builtUpdate README.md of Big Tank of Double South's La
 
 A landing Page built with HTML & SCSS
 
-To clone this project,
-
 ## Author 😊
 
 **Benjamin Ofori-Quansah**
