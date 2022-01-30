@@ -1,6 +1,6 @@
 # Landing Page Clone Project
 
-This project is a clone I built m of Big Tank of Double South's Landing Page for Kenya.
+This project is a clone I built of Big Tank's Landing Page of Kenya.
 
 
 ## Art
