@@ -1,6 +1,6 @@
 # Landing Page Clone Project
 
-This project is a clone I built pdate README.md of Big Tank of Double South's Landing Page for Kenya.
+This project is a clone I built date README.md of Big Tank of Double South's Landing Page for Kenya.
 
 
 ## Art
