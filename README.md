@@ -1,6 +1,6 @@
 # Landing Page Clone Project
 
-This project is a clone I built ADME.md of Big Tank of Double South's Landing Page for Kenya.
+This project is a clone I built DME.md of Big Tank of Double South's Landing Page for Kenya.
 
 
 ## Art
