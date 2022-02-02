@@ -1,6 +1,6 @@
 # Landing Page Clone Project
 
-This project is a clone I built a Youtuber's Landing Page of Kenya.
+This project is a Landing clone Page of Kenya.
 
 
 ## Art
