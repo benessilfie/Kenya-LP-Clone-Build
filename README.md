@@ -10,7 +10,7 @@ This project is a Landing clone Page of Kenya.
 
 ## Author 😊
 
-**Benjamin Ofori-Quansah**
+**Benjamin Essilfie-Quansah**
 
 - [**Twitter**](https://twitter.com/essilfiequansah)
 - [**Linkedin**](https://www.linkedin.com/in/essilfiequansah/)
