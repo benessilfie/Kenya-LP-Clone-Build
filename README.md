@@ -1,6 +1,6 @@
 # Landing Page Clone Project
 
-This project is a Landing clone Page of Keny
+This project is a Landing clone Page of Ken
 
 
 ## Art
